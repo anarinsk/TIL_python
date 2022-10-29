@@ -11,12 +11,8 @@
 	- Macos: brew 
 	- Linux: apt 
 
-> **Note**
+> **Note** 
+
 > 일단 설치가 끝난 이후에는 miniconda와 사용법이 동일하다. 
 
 
-> **Note**
-> What the fuck! 
-
-> **Warning**
-> This is a warning
