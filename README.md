@@ -13,31 +13,31 @@ _11 TILs and counting..._
 
 ### 2 most recent TILs
 
-- [Itertools를 배워보자.](TIL_python/small-practice/itertools.md) - Sat Oct 29 22:54:08 2022 +0900
-- [ax 활용하기](figax-mean.md) - Sat Oct 29 22:54:08 2022 +0900
+- [Today I learned for Python](_meta/today-i-learned.md) - Sun Oct 30 08:32:21 2022 +0900
+- [ax 활용하기](matplotlib/figax-mean.md) - Sun Oct 30 08:32:21 2022 +0900
 
 ### Categories
 
-- [meta](#meta)
-- [python-matplotlib](#python-matplotlib)
-- [python-practice](#python-practice)
+- [_meta](#_meta)
+- [matplotlib](#matplotlib)
+- [small-practice](#small-practice)
 
-### [meta](#meta)
-- [Today I learned for Python](TIL_python/_meta/today-i-learned.md)
+### [_meta](#_meta)
+- [Today I learned for Python](_meta/today-i-learned.md)
 
-### [python-matplotlib](#python-matplotlib)
-- [ax 활용하기](figax-mean.md)
+### [matplotlib](#matplotlib)
+- [ax 활용하기](matplotlib/figax-mean.md)
 
-### [python-practice](#python-practice)
-- [ABM을 구현해주는 파이썬 패키지](agentpy.md)
-- [Matplotlib에 한글 폰트 잘 깔렸는지 테스트](TIL_python/small-practice/check-matplotlb-korfont.md)
-- [콘다 환경 설정](conda-env.md)
-- [소소한 팁들](cookies-of-coding.md)
-- [Itertools를 배워보자.](TIL_python/small-practice/itertools.md)
-- [한글 폰트 패키지로 설치하기](korfont-by-pip.md)
-- [pipreqs](TIL_python/small-practice/pipreqs.md)
-- [scipy 튜토리얼](scientific-python.md)
-- [타임시리즈 다루는 팁](TIL_python/small-practice/time-series-handling-1.md)
+### [small-practice](#small-practice)
+- [ABM을 구현해주는 파이썬 패키지](small-practice/agentpy.md)
+- [Matplotlib에 한글 폰트 잘 깔렸는지 테스트](small-practice/check-matplotlb-korfont.md)
+- [콘다 환경 설정](small-practice/conda-env.md)
+- [소소한 팁들](small-practice/cookies-of-coding.md)
+- [Itertools를 배워보자.](small-practice/itertools.md)
+- [한글 폰트 패키지로 설치하기](small-practice/korfont-by-pip.md)
+- [pipreqs](small-practice/pipreqs.md)
+- [scipy 튜토리얼](small-practice/scientific-python.md)
+- [타임시리즈 다루는 팁](small-practice/time-series-handling-1.md)
 
 [1]: https://simonwillison.net/2020/Apr/20/self-rewriting-readme/
 [2]: https://github.com/jbranchaud/til
