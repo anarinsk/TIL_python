@@ -17,3 +17,6 @@
 
 > **Note**
 > What the fuck! 
+
+> **Warning**
+> This is a warning
