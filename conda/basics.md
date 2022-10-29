@@ -12,4 +12,5 @@
 	- Linux: apt 
 
 >  **Note**
+>  
 >  일단 설치가 끝난 이후에는 miniconda와 사용법이 동일하다. 
