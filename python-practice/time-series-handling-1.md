@@ -1,3 +1,5 @@
+# 타임시리즈 다루는 팁 
+
 # How to Handle Time Series data 
 
 ## Why 

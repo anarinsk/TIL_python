@@ -1,7 +1,5 @@
 # pipreqs 
 
-## Why 
-
 - 프로젝트에서 활용하는 패키지 버전만 뽑아서 `requirements.txt`를 만든다. 
 
 ## 설치 
