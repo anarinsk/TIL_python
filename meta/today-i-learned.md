@@ -1,4 +1,5 @@
-# Today I learned
+# Today I learned for Python 
 
-The inspiration for this repository is [This HN thread](https://news.ycombinator.com/item?id=22908044) for [This repository](https://news.ycombinator.com/item?id=22908044)
+- 파이썬 활용에 관한 TIL 
+- 설치에 관한 TIL은 `TIL` > `python-install`을 참고하자. 
 
