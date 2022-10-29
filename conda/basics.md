@@ -11,4 +11,5 @@
 	- Macos: brew 
 	- Linux: apt 
 
-> :info: **일단 설치가 끝난 이후에는 miniconda와 사용법이 동일하다. **
+> **info**
+> 일단 설치가 끝난 이후에는 miniconda와 사용법이 동일하다. 
