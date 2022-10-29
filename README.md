@@ -31,7 +31,7 @@ _11 TILs and counting..._
 ### [small-practice](#small-practice)
 - [ABM을 구현해주는 파이썬 패키지](small-practice/agentpy.md)
 - [Matplotlib에 한글 폰트 잘 깔렸는지 테스트](small-practice/check-matplotlb-korfont.md)
-- [콘다 환경 설정](small-practice/conda-env.md)
+- [콘다 환경 설정](conda-env.md)
 - [소소한 팁들](small-practice/cookies-of-coding.md)
 - [Itertools를 배워보자.](small-practice/itertools.md)
 - [한글 폰트 패키지로 설치하기](small-practice/korfont-by-pip.md)
