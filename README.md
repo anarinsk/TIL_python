@@ -31,13 +31,13 @@ _11 TILs and counting..._
 ### [python-practice](#python-practice)
 - [ABM을 구현해주는 파이썬 패키지](python-practice/agentpy.md)
 - [Matplotlib에 한글 폰트 잘 깔렸는지 테스트](python-practice/check-matplotlb-korfont.md)
-- [# Why](python-practice/conda-env.md)
-- [# Why](python-practice/cookies-of-coding.md)
+- [콘다 환경 설정](python-practice/conda-env.md)
+- [소소한 팁들](python-practice/cookies-of-coding.md)
 - [Itertools를 배워보자.](python-practice/itertools.md)
-- [[ychoi-kr/koreanize-matplotlib: install & import하는 것만으로 matplotlib에서 한국어를 표시할 수 있습니다. (github.com)](https://github.com/ychoi-kr/koreanize-matplotlib)](python-practice/korfont-by-pip.md)
+- [한글 폰트 패키지로 설치하기](python-practice/korfont-by-pip.md)
 - [pipreqs](python-practice/pipreqs.md)
-- [https://github.com/rougier/scientific-visualization-book](python-practice/scientific-python.md)
-- [How to Handle Time Series data](python-practice/time-series-handling-1.md)
+- [scipy 튜토리얼](python-practice/scientific-python.md)
+- [타임시리즈 다루는 팁](python-practice/time-series-handling-1.md)
 
 [1]: https://simonwillison.net/2020/Apr/20/self-rewriting-readme/
 [2]: https://github.com/jbranchaud/til
