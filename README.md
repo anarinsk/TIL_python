@@ -23,7 +23,7 @@ _11 TILs and counting..._
 - [python-practice](#python-practice)
 
 ### [meta](#meta)
-- [Today I learned](meta/today-i-learned.md)
+- [Today I learned for Python](meta/today-i-learned.md)
 
 ### [python-matplotlib](#python-matplotlib)
 - [ax 활용하기](python-matplotlib/figax-mean.md)
