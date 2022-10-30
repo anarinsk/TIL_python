@@ -18,26 +18,20 @@
 
 ### 기본 명령어 셋 
 
-- 환경 생성 및 활성화
-```bash
+#### 환경 생성 및 활성화
+```shell
 $ conda create --name(-n) {NAME-OF-ENV} python={3.10}
 $ conda activate {NAME-OF-ENV}
-$ conda deactivate # 현재 환경을 비활성화 
+$ conda deactivate # 현재 환경을 비활성화 ```bash
+$ conda create --name(-n) {NAME-OF-ENV} --clone {NAME-OF-ENV-COPIED} # 환경 복사 
+$ conda remove --name {NAME-OF-ENV} #환경 제거 
 ```
-- 환경 복사 
-```bash
-$ conda create --name(-n) {NAME-OF-ENV} --clone {NAME-OF-ENV-COPIED}
-```
-- 환경 제거 
-```bash
-$ conda remove --name {NAME-OF-ENV}
-```
-- 패키지 인스톨 
+
+ #### 패키지 인스톨 
 ```shell
 $ conda install {NAME-OF-PACKAGE}
 ```
-- 업데이트 
-	- `base`에서 치자
-```
-$ conda update --all
+#### 업데이트 
+```shell
+$ conda update --all # base에서 치자 
 ```
