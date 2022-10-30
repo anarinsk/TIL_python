@@ -14,7 +14,7 @@ _12 TILs and counting..._
 ### 2 most recent TILs
 
 - [기본 설정](conda/basics.md) - Sun Oct 30 08:42:15 2022 +0900
-- [콘다 환경 설정](conda/conda-env.md) - Sun Oct 30 08:42:15 2022 +0900
+- [콘다 환경 설정](quicksilver-env.md) - Sun Oct 30 08:42:15 2022 +0900
 
 ### Categories
 
@@ -28,7 +28,7 @@ _12 TILs and counting..._
 
 ### [conda](#conda)
 - [기본 설정](conda/basics.md)
-- [콘다 환경 설정](conda/conda-env.md)
+- [콘다 환경 설정](quicksilver-env.md)
 
 ### [matplotlib](#matplotlib)
 - [ax 활용하기](matplotlib/figax-mean.md)
