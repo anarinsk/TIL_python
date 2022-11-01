@@ -7,7 +7,7 @@ repository after reading Simon Wilson's [hacker new post][1], and he was
 apparently inspired by Josh Branchaud's [TIL collection][2].
 
 
-_12 TILs and counting..._
+_13 TILs and counting..._
 
 ---
 
@@ -21,6 +21,7 @@ _12 TILs and counting..._
 - [_meta](#_meta)
 - [conda](#conda)
 - [matplotlib](#matplotlib)
+- [pathlib.Path](#pathlib.Path)
 - [small-practice](#small-practice)
 
 ### [_meta](#_meta)
@@ -32,6 +33,9 @@ _12 TILs and counting..._
 
 ### [matplotlib](#matplotlib)
 - [ax 활용하기](matplotlib/figax-mean.md)
+
+### [pathlib.Path](#pathlib.Path)
+- [pathlib.Path](pathlib.Path/pathlibPath.md)
 
 ### [small-practice](#small-practice)
 - [ABM을 구현해주는 파이썬 패키지](small-practice/agentpy.md)
