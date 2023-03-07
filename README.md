@@ -7,7 +7,7 @@ repository after reading Simon Wilson's [hacker new post][1], and he was
 apparently inspired by Josh Branchaud's [TIL collection][2].
 
 
-_13 TILs and counting..._
+_14 TILs and counting..._
 
 ---
 
@@ -22,6 +22,7 @@ _13 TILs and counting..._
 - [conda](#conda)
 - [matplotlib](#matplotlib)
 - [pathlib.Path](#pathlib.Path)
+- [pyenv+poetry](#pyenv+poetry)
 - [small-practice](#small-practice)
 
 ### [_meta](#_meta)
@@ -36,6 +37,9 @@ _13 TILs and counting..._
 
 ### [pathlib.Path](#pathlib.Path)
 - [pathlib.Path](pathlib.Path/pathlibPath.md)
+
+### [pyenv+poetry](#pyenv+poetry)
+- [](pyenv+poetry/pyenv.md)
 
 ### [small-practice](#small-practice)
 - [ABM을 구현해주는 파이썬 패키지](small-practice/agentpy.md)
