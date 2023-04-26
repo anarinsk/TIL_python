@@ -14,3 +14,17 @@
 >  **Note** 
 > 일단 설치가 끝난 이후에는 miniconda와 사용법이 동일하다.
 
+- 그냥 미니콘다를 쓰는 게 나을 듯 싶다. 
+
+## conda update 
+
+`conda update --all`
+- 현재 환경의 패키지를 모두 업데이트 한다. 
+
+`conda update -n base -c defaults conda`
+- 콘다 패키지를 업데이트하는 명령어 
+
+`conda install conda=4.12.0`
+- 콘다 자치를 설치한다. 
+- 콘다 패키지를 업데이트했음에도 하라고 나오면 위와 같이 설치한다. 
+
