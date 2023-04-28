@@ -5,7 +5,7 @@
 - 미니콘다의 경우 커뮤니티 버전이 콘다-포지 채널을 디폴트로 무료로 운영되고 있다. 
 - [conda-forge/miniforge: A conda-forge distribution. (github.com)](https://github.com/conda-forge/miniforge)
 
-## How to install 
+## ~~How to install 
 - 링크에 설치 파일이 있으나, OS별 패키지 관리자의 도움을 얻는 것이 좋겠다. 
 	- Windows: winget [Miniforge3 - winstall](https://winstall.app/apps/CondaForge.Miniforge3)
 	- Macos: brew [miniforge — Homebrew Formulae](https://formulae.brew.sh/cask/miniforge)
